@@ -14,7 +14,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: ''
+baseurl: '/jekyll_test'
 url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
@@ -22,4 +22,4 @@ markdown: kramdown
 
 sass:
     sass_dir: _sass
-root: /jekyll_test
+
